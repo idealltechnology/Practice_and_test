@@ -13,10 +13,15 @@
 
 # Very important items :
  `Clean code
-for back-end side we need  : Nodejs - express - nosql db like mongodb ,Jest testing
-for front-end side we need : React, Redux, HTML5, CSS, Sass, ES6+, jQuery , Jest testing
+
 Pattern design
+
 Simple but professional
+
+Our expectations of back-end  : Nodejs - express - nosql db like mongodb ,Jest testing.
+
+Our expectations of front-end : React or Nextjs, Redux, HTML5, CSS, Sass, ES6+, jQuery , Jest testing
+
 `
 
 You can also:
